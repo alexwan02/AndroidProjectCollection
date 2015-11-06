@@ -158,7 +158,7 @@
 9. [Topeka for Android](https://github.com/googlesamples/android-topeka) - Material Design风格趣味App
 
 ### Other
-1. [国外计算机课程公开课](https://github.com/open-source-society/computer-science)
+1. [国外计算机课程公开课](https://github.com/open-source-society/computer-science) 
 2. [GradleUserGuide](https://github.com/DONGChuan/GradleUserGuide) - Gradle User Guide 中文版
 3. [Platform_Frameworks_Support](https://github.com/android/platform_frameworks_support) - Android support包 源码
 4. [Android-Tips](https://github.com/tangqi92/Android-Tips) - Android 开发Tips
