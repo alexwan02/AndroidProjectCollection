@@ -103,7 +103,7 @@
 1. [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android响应式扩展框架
 2. [Device Year Class](https://github.com/facebook/device-year-class) - 根据 CPU核数、时钟频率 以及 内存大小 对设备进行分级
 3. [ChangeSkin](https://github.com/hongyangAndroid/ChangeSkin) - 基于插件式的Android换肤框架，无需重启Activity
-4. [https://github.com/fengjundev/Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader) - 动态加载本地皮肤包进行换肤的皮肤框架
+4. [AndroidSkinLoader](https://github.com/fengjundev/Android-Skin-Loader) - 动态加载本地皮肤包进行换肤的皮肤框架
 5. [AndFix](https://github.com/alibaba/AndFix) - 阿里巴巴在线修复BUG库
 6. [Dagger](https://github.com/square/dagger) - Android 依赖注入框架
 7. [YouTube Player Activity](https://github.com/TheFinestArtist/YouTubePlayerActivity) - 视频播放库
