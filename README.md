@@ -89,13 +89,13 @@
 66. [Android flow layout](https://github.com/ApmeM/android-flowlayout) - 自动换行的布局库
 
 ### Android 图片处理
-* 加载图片
+（1）加载图片
 1. [Android-Universal-Image-Loader]()
 2. [Picasso]()
 3. [Glide](https://github.com/bumptech/glide)
 4. [Fresco](https://github.com/facebook/fresco)
 
-* 裁剪图片
+（2）裁剪图片
 1. [Cropper](https://github.com/edmodo/cropper) - 一个图片裁剪的库
 2. [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) - 一个简单的图片裁剪库
 
